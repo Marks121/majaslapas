@@ -1,0 +1,134 @@
+.div1 {
+
+    width: 40%;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(87, 226, 232, 1) 0%, rgba(0, 212, 255, 1) 100%);
+    position: absolute;
+    top: 0;
+    height: 100vh;
+}
+
+.div2 {
+    position: absolute;
+    top: 0;
+    left: 45%;
+    height: 100vh;
+
+}
+
+
+.div1-headline {
+    position: relative;
+    text-align: center;
+    color: rgb(253, 254, 255);
+    font-size: 60px;
+    top: 10%;
+
+}
+
+.div1-subheadline {
+    position: relative;
+    text-align: center;
+    color: rgb(253, 254, 255);
+    font-size: 30px;
+    top: 10%;
+
+}
+
+.div1-image {
+    position: relative;
+    width: 700px;
+    height: auto;
+    left: 10%;
+}
+
+.div2-headline {
+    position: relative;
+    color: rgb(0, 212, 255, 1);
+    font-size: 60px;
+    top: 10%;
+}
+
+.div2-subheadline {
+    position: relative;
+    top: 5%;
+    font-size: 20px;
+    border: none;
+}
+
+.div2-buttondiv {
+    position: relative;
+    top: 5%;
+}
+
+.div2-button1 {
+    background-color: rgb(100, 149, 237);
+    color: rgb(253, 254, 255);
+    border-color: rgb(100, 149, 237);
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+
+}
+
+.div2-button2 {
+    border-color: rgb(100, 149, 237);
+    font-size: 20px;
+    color: rgb(100, 149, 237);
+    background-color: rgb(253, 254, 255);
+    height: 40px;
+
+}
+
+span {
+    padding-right: 20px;
+}
+
+
+.div2-buttondiv2 {
+    position: relative;
+    top: 57%;
+    left: 800px;
+}
+
+.div2-button3 {
+    font-size: 15px;
+    color: rgb(253, 254, 255);
+    background-color: #F9754D;
+    border-color: #F9754D;
+    width: 150px;
+    height: 40px;
+}
+
+.dati-divb {
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.div2-input {
+    resize: horizontal;
+    width: 350px;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5%;
+}
+
+ul {
+
+    display: inline-flex;
+    list-style-type: none;
+    padding-top: 50px;
+}
+
+li {
+    padding-left: 20px;
+    padding-top: 15px;
+    color: aliceblue;
+    background-color: rgb(21, 21, 75);
+    text-align: center;
+    height: 30px;
+}
+
+.table-div {
+    position: relative;
+    right: 3.5%;
+}

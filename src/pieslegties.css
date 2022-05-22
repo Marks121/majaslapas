@@ -1,0 +1,11 @@
+.div2-form {
+    position: relative;
+    top: 10%;
+}
+
+.div2-input {
+    resize: horizontal;
+    width: 250px;
+    padding: 5px;
+    font-size: 15px;
+}
