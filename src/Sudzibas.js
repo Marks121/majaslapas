@@ -5,8 +5,8 @@ import "./home.css"
 export default function Sudzibas() {
     return (
         <>
-            <img src="https://c.tenor.com/O5N6-lFO_ZMAAAAC/twitch-stream.gif" style={{ width: "100%", position: "absolute" }}></img>
-            <img src='https://c.tenor.com/XMRnHdhvVvcAAAAC/cry-about-it-cry.gif' style={{ left: "20%", position: "absolute" }}></img>
+            <img src="https://media.giphy.com/media/qjgm2rlJ6wep88aitp/giphy.gif" style={{ width: "100%", position: "absolute" }}></img>
+            
         </>
     )
 }
